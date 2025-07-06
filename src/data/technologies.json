@@ -1,0 +1,89 @@
+[{
+        "techID": 1,
+        "techIcon": "devicon-react-original colored",
+        "techName": "React",
+        "techCategory": "Library/Framework",
+        "techURL": "https://reactjs.org/"
+    },
+    {
+        "techID": 2,
+        "techIcon": "devicon-bootstrap-plain colored",
+        "techName": "Bootstrap",
+        "techCategory": "Library/Framework",
+        "techURL": "https://getbootstrap.com/"
+    },
+    {
+        "techID": 10,
+        "techIcon": "devicon-nextjs-plain colored",
+        "techName": "NextJS",
+        "techCategory": "Library/Framework",
+        "techURL": "https://nextjs.org/"
+    },
+    {
+        "techID": 12,
+        "techIcon": "devicon-nodejs-plain-wordmark colored",
+        "techName": "NodeJS",
+        "techCategory": "Library/Framework",
+        "techURL": "https://nodejs.org/"
+    },
+
+    {
+        "techID": 14,
+        "techIcon": "devicon-javascript-plain colored",
+        "techName": "Javascript",
+        "techCategory": "Languages",
+        "techURL": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    },
+
+    {
+        "techID": 16,
+        "techIcon": "devicon-html5-plain colored",
+        "techName": "HTML",
+        "techCategory": "Languages",
+        "techURL": "https://developer.mozilla.org/en-US/docs/Web/HTML"
+    },
+    {
+        "techID": 17,
+        "techIcon": "devicon-css3-plain colored",
+        "techName": "CSS",
+        "techCategory": "Languages",
+        "techURL": "https://developer.mozilla.org/en-US/docs/Web/CSS"
+    },
+
+    {
+        "techID": 19,
+        "techIcon": "devicon-git-plain colored",
+        "techName": "Git",
+        "techCategory": "Tools/Platforms",
+        "techURL": "https://git-scm.com/"
+    },
+    {
+        "techID": 20,
+        "techIcon": "devicon-github-original colored",
+        "techName": "Github",
+        "techCategory": "Tools/Platforms",
+        "techURL": "https://github.com/"
+    },
+ 
+    {
+        "techID": 22,
+        "techIcon": "devicon-vercel-original-wordmark colored",
+        "techName": "Vercel",
+        "techCategory": "Tools/Platforms",
+        "techURL": "https://vercel.com/"
+    },
+    {
+        "techID": 26,
+        "techIcon": "devicon-figma-plain colored",
+        "techName": "Figma",
+        "techCategory": "Tools/Platforms",
+        "techURL": "https://www.figma.com/"
+    },
+    {
+        "techID": 33,
+        "techIcon": "devicon-tailwindcss-original colored",
+        "techName": "Tailwindcss",
+        "techCategory": "Library/Framework",
+        "techURL": "https://tailwindcss.com/"
+    }
+]

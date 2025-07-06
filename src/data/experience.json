@@ -1,0 +1,49 @@
+[
+    {
+        "experienceID": 3,
+        "experienceCategory": "Work",
+        "experienceIcon": "icon-briefcase",
+        "experienceLogo": "https://scontent.fvkg1-1.fna.fbcdn.net/v/t39.30808-6/475970060_592560803623550_7225629326389217811_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=kmXSz2JfTWcQ7kNvwFw7SQ0&_nc_oc=AdkpOPyFbNPT1E_bjYY3ybSlpudRYnXbRkkGqaWZdUBLuGRYiPpJpSPE2SA7wv1bogC_hZ_dbidgYq-0fZlmWzCK&_nc_pt=1&_nc_zt=23&_nc_ht=scontent.fvkg1-1.fna&_nc_gid=jL8mhIZQWo7CC1N4gzxnww&oh=00_AfSLWQusZXGAct7mAnvaGgLQacrFnalSszjKjPi5kE4ISw&oe=686E9803",
+        "experienceYear": "Nov 2023 - Present",
+        "experienceTitle": "Bao Long Scrap",
+        "experienceDescription": [
+            "Frontend Developer",
+            "● Developed and maintained website pages including Home, Services, Blog, and Contact, ensuring mobile responsiveness and SEO optimization.",
+            "● Integrated a CMS backend for managing content updates (blog posts, services details, featured partners).",
+            "● Implemented UI components for certificate display sections and partner logos carousel.",
+            "● Troubleshot cross-browser issues (Chrome, Firefox, Safari) to ensure consistent user experience.",
+            "● Authored and managed sitemap, metadata, and web analytics setup.",
+            "● Key technologies: e.g., WordPress/Headless CMS, PHP/Node.js, HTML5, CSS3/SASS, JavaScript, jQuery or React, SEO tools, Google Analytics."
+        ]
+    },
+    {
+        "experienceID": 4,
+        "experienceCategory": "Work",
+        "experienceIcon": "icon-briefcase",
+        "experienceLogo": "https://scontent.fvkg1-1.fna.fbcdn.net/v/t39.30808-6/473787935_596897676400628_7438439324364529576_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=s-DwSv7jf-oQ7kNvwH2xYWn&_nc_oc=AdnYG7sqPt7-Gzpp-MalRDZXsUmkBAJJt1x-o4Llw6Zt4GOIviFh6T7t4l15fYQRfAOROwEBFarREpGnzwv94PCR&_nc_pt=1&_nc_zt=23&_nc_ht=scontent.fvkg1-1.fna&_nc_gid=OO-m60v1NzfGignEhWprbQ&oh=00_AfTdDJWZL1O2r4uMN3rcfnCWb7AdvE3Yu7bZ7ihDPPINug&oe=686E9D7F",
+        "experienceYear": "Dec 2024 – Mar 2025",
+        "experienceTitle": "KOC Ambassador Program - ACCESSTRADE",
+        "experienceDescription": [
+            "Content Creator",
+            "● Participated in the KOC Ambassador Program by ACCESSTRADE, producing TikTok video content for the Vincom brand (part of the Vingroup ecosystem: Vincom, Vinpearl, Vinmec, etc.).",
+            "● Planned, filmed, and edited 15–60 second TikTok videos using storytelling techniques tailored to trending formats and user behavior.",
+            "● Optimized video SEO on TikTok, including captions, hashtags, and tagged locations to maximize visibility and reach.",
+            "● Delivered periodic campaign performance reports and proposed content enhancements based on audience insights and brand feedback."
+        ]
+    },
+    {
+        "experienceID": 5,
+        "experienceCategory": "Work",
+        "experienceIcon": "icon-briefcase",
+        "experienceLogo": "https://images.seeklogo.com/logo-png/29/1/freelancer-logo-png_seeklogo-296816.png",
+        "experienceYear": "Dec 2020 - Feb 2023",
+        "experienceTitle": "NK TRAN THANH LONG",
+        "experienceDescription": [
+            "Core Member ",
+            "● Designed blog visuals and layouts aligned with brand identity.",
+            "● Created SEO-friendly blog content on fashion and lifestyle topics.",
+            "● Shot and edited photos for campaigns and social media.",
+            "● Collaborated on creative concepts for seasonal promotions.."
+        ]
+    }
+]
